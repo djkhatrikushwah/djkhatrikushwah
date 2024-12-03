@@ -1,4 +1,22 @@
-<h2 align="left">Hi 👋! My name is Dhananjay Khatri and I'm a Full-Stack Developer, from Indore.</h2>
+<!-- Header Section -->
+<h1 align="center"><font face="Arial">Hi 👋, I'm Dhananjay Khatri a.k.a <a href="https://github.com/djkhatrikushwah">CutiePatootie</a></font></h1>
+<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/dhananjay-khatri-a9803321a/" target="_blank" rel="noreferrer">Dhananjay</a> is a passionate Software Engineer from India, working on Full-Stack and Web-Dev for 1+ years now. Feel free to reach out for any Freelance Projects.</font></h3>
+
+<!-- Schedule a 1-on-1 Call Section -->
+<h3 align="left"><font size="+2" face="Verdana">A Little detail about me:</font></h3>
+<p align="left">
+  <!--<a href="https://topmate.io/nasiullha_chaudhari" target="_blank" rel="noreferrer"> Book a Call with me! </a>-->
+</p>
+
+
+
+<!-- Languages and Tools Section -->
+<h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
+
+
+- I work on Backend, Frontend , Microservices, containers, and everything around it.
+- I’m looking to collaborate on **Full-Stack Native Projects**
+
 
 ###
 
@@ -40,4 +58,16 @@
   </a>
 </div>
 
+#### Editor / IDE I ♥
+<p align="left"><img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intellij" title="intellij" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="40" height="40"/> </p>
+
+
+<!-- Contact Section -->
+<h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
+<p align="left">
+</p>
+
+- 💬 Ask me about **Full-Stack**
+- 📫 How to reach me **[khatridj08@gmail.com](mailto:khatridj08@gmail.com)**
+- ⚡ Fun fact **I'm a Gamer and Musician**
 ###
